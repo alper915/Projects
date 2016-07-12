@@ -1,0 +1,740 @@
+{
+  "items": [
+    {
+      "kind": "youtube#playlist",
+      "etag": "\"BDC7VThyM9nfoSQm1_kOyhtJTEw\/DGBbJn3oIOOL_10_O9CAZ9Vykt8\"",
+      "id": "PL6gx4Cwl9DGDiJSXfsJTASx9eMq_HlenQ",
+      "snippet": {
+        "publishedAt": "2013-01-28T17:17:46.000Z",
+        "channelId": "UCJbPGzawDH1njbqV-D5HqKw",
+        "title": "AJAX Tutorials Playlist",
+        "description": "Official Playlist for thenewboston AJAX tutorials!",
+        "thumbnails": {
+          "default": {
+            "url": "https:\/\/i.ytimg.com\/vi\/tp3Gw-oWs2k\/default.jpg"
+          },
+          "medium": {
+            "url": "https:\/\/i.ytimg.com\/vi\/tp3Gw-oWs2k\/mqdefault.jpg"
+          },
+          "high": {
+            "url": "https:\/\/i.ytimg.com\/vi\/tp3Gw-oWs2k\/hqdefault.jpg"
+          }
+        },
+        "channelTitle": "thenewboston"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "\"BDC7VThyM9nfoSQm1_kOyhtJTEw\/1bzCDmBwgurE6kvyB6fJIPeYpZs\"",
+      "id": "PL6gx4Cwl9DGBpuvPW0aHa7mKdn_k9SPKO",
+      "snippet": {
+        "publishedAt": "2012-12-11T12:02:54.000Z",
+        "channelId": "UCJbPGzawDH1njbqV-D5HqKw",
+        "title": "Computer Networking Playlist",
+        "description": "Official Playlist for thenewboston Computer Networking Tutorials!",
+        "thumbnails": {
+          "default": {
+            "url": "https:\/\/i.ytimg.com\/vi\/ueVnSz_lXEs\/default.jpg"
+          },
+          "medium": {
+            "url": "https:\/\/i.ytimg.com\/vi\/ueVnSz_lXEs\/mqdefault.jpg"
+          },
+          "high": {
+            "url": "https:\/\/i.ytimg.com\/vi\/ueVnSz_lXEs\/hqdefault.jpg"
+          }
+        },
+        "channelTitle": "thenewboston"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+   {
+      "kind": "youtube#playlist",
+      "etag": "\"BDC7VThyM9nfoSQm1_kOyhtJTEw\/TVJNy43Mu1k5EubgXnC1URvIyCE\"",
+      "id": "PL8E21BDD0981FDF66",
+      "snippet": {
+        "publishedAt": "2009-06-11T00:22:44.000Z",
+        "channelId": "UCJbPGzawDH1njbqV-D5HqKw",
+        "title": "Computer Game Development Tutorial",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https:\/\/i.ytimg.com\/vi\/0xgn-HKzZes\/default.jpg"
+          },
+          "medium": {
+            "url": "https:\/\/i.ytimg.com\/vi\/0xgn-HKzZes\/mqdefault.jpg"
+          },
+          "high": {
+            "url": "https:\/\/i.ytimg.com\/vi\/0xgn-HKzZes\/hqdefault.jpg"
+          }
+        },
+        "channelTitle": "thenewboston"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "\"BDC7VThyM9nfoSQm1_kOyhtJTEw\/6VvLLd_j1Nm91xDEHHC_KcD4olk\"",
+      "id": "PLFE2CE09D83EE3E28",
+      "snippet": {
+        "publishedAt": "2009-05-16T16:59:11.000Z",
+        "channelId": "UCJbPGzawDH1njbqV-D5HqKw",
+        "title": "Java (Beginner) Programming Tutorials",
+        "description": "Here are all of my Java programming tutorials.",
+        "thumbnails": {
+          "default": {
+            "url": "https:\/\/i.ytimg.com\/vi\/5u8rFbpdvds\/default.jpg"
+          },
+          "medium": {
+            "url": "https:\/\/i.ytimg.com\/vi\/5u8rFbpdvds\/mqdefault.jpg"
+          },
+          "high": {
+            "url": "https:\/\/i.ytimg.com\/vi\/5u8rFbpdvds\/hqdefault.jpg"
+          }
+        },
+        "channelTitle": "thenewboston",
+        "tags": [
+          "install",
+          "download",
+          "jdk",
+          "se",
+          "ee",
+          "java",
+          "development",
+          "kit",
+          "new",
+          "beginner",
+          "tutorials",
+          "eclipse",
+          "variables",
+          "if",
+          "while",
+          "loop",
+          "object",
+          "classes"
+        ]
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "\"BDC7VThyM9nfoSQm1_kOyhtJTEw\/lPqGoYBpEq1k2BhPbkdr0YiykzY\"",
+      "id": "PLEA1FEF17E1E5C0DA",
+      "snippet": {
+        "publishedAt": "2009-05-01T01:48:05.000Z",
+        "channelId": "UCJbPGzawDH1njbqV-D5HqKw",
+        "title": "Python Programming Tutorials",
+        "description": "Here is all of my Python Programming high quality tutorials!",
+        "thumbnails": {
+          "default": {
+            "url": "https:\/\/i.ytimg.com\/vi\/DkW5CSZ_VII\/default.jpg"
+          },
+          "medium": {
+            "url": "https:\/\/i.ytimg.com\/vi\/DkW5CSZ_VII\/mqdefault.jpg"
+          },
+          "high": {
+            "url": "https:\/\/i.ytimg.com\/vi\/DkW5CSZ_VII\/hqdefault.jpg"
+          }
+        },
+        "channelTitle": "thenewboston",
+        "tags": [
+          "python",
+          "learn",
+          "program",
+          "variable",
+          "technology",
+          "health",
+          "arts",
+          "crafts",
+          "beauty",
+          "methods",
+          "objects",
+          "tut",
+          "operators",
+          "function",
+          "OO"
+        ]
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "\"BDC7VThyM9nfoSQm1_kOyhtJTEw\/9YuKyWWJz6SC-MD2GlZ0Q_EGvOo\"",
+      "id": "PL78280D6BE6F05D34",
+      "snippet": {
+        "publishedAt": "2009-04-11T03:35:06.000Z",
+        "channelId": "UCJbPGzawDH1njbqV-D5HqKw",
+        "title": "C Programming Tutorials",
+        "description": "All if my C programming tutorials are right here!",
+        "thumbnails": {
+          "default": {
+            "url": "https:\/\/i.ytimg.com\/vi\/b00HsZvg-V0\/default.jpg"
+          },
+          "medium": {
+            "url": "https:\/\/i.ytimg.com\/vi\/b00HsZvg-V0\/mqdefault.jpg"
+          },
+          "high": {
+            "url": "https:\/\/i.ytimg.com\/vi\/b00HsZvg-V0\/hqdefault.jpg"
+          }
+        },
+        "channelTitle": "thenewboston"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "\"BDC7VThyM9nfoSQm1_kOyhtJTEw\/OtOyweBqNIWwEzE-SUWq_e7DZoM\"",
+      "id": "PLD0D54219E5F2544D",
+      "snippet": {
+        "publishedAt": "2012-06-30T02:01:40.000Z",
+        "channelId": "UCJbPGzawDH1njbqV-D5HqKw",
+        "title": "C++ GUI with Qt Playlist",
+        "description": "Official Playlist for thenewboston C++ GUI with Qt tutorials!",
+        "thumbnails": {
+          "default": {
+            "url": "https:\/\/i.ytimg.com\/vi\/aMUh9DmFLto\/default.jpg"
+          },
+          "medium": {
+            "url": "https:\/\/i.ytimg.com\/vi\/aMUh9DmFLto\/mqdefault.jpg"
+          },
+          "high": {
+            "url": "https:\/\/i.ytimg.com\/vi\/aMUh9DmFLto\/hqdefault.jpg"
+          }
+        },
+        "channelTitle": "thenewboston"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "\"BDC7VThyM9nfoSQm1_kOyhtJTEw\/Yx4XFRzcFFakbve4OXEoKqnodM0\"",
+      "id": "PL210C2267A8922854",
+      "snippet": {
+        "publishedAt": "2012-05-21T08:24:11.000Z",
+        "channelId": "UCJbPGzawDH1njbqV-D5HqKw",
+        "title": "Java Game Development with Slick Playlist",
+        "description": "thenewboston Official Java Game Development with Slick Playlist!",
+        "thumbnails": {
+          "default": {
+            "url": "https:\/\/i.ytimg.com\/vi\/AXNDBQfCd08\/default.jpg"
+          },
+          "medium": {
+            "url": "https:\/\/i.ytimg.com\/vi\/AXNDBQfCd08\/mqdefault.jpg"
+          },
+          "high": {
+            "url": "https:\/\/i.ytimg.com\/vi\/AXNDBQfCd08\/hqdefault.jpg"
+          }
+        },
+        "channelTitle": "thenewboston"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "\"BDC7VThyM9nfoSQm1_kOyhtJTEw\/VHxohpH0WSd4SSTS5ULCHmclXPI\"",
+      "id": "PL1512BD72E7C9FFCA",
+      "snippet": {
+        "publishedAt": "2012-02-01T04:09:54.000Z",
+        "channelId": "UCJbPGzawDH1njbqV-D5HqKw",
+        "title": "Ruby Programming Tutorials Playlist",
+        "description": "thenewboston Official Playlist for Ruby Programming Tutorials!",
+        "thumbnails": {
+          "default": {
+            "url": "https:\/\/i.ytimg.com\/vi\/WJlfVjGt6Hg\/default.jpg"
+          },
+          "medium": {
+            "url": "https:\/\/i.ytimg.com\/vi\/WJlfVjGt6Hg\/mqdefault.jpg"
+          },
+          "high": {
+            "url": "https:\/\/i.ytimg.com\/vi\/WJlfVjGt6Hg\/hqdefault.jpg"
+          }
+        },
+        "channelTitle": "thenewboston"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "\"BDC7VThyM9nfoSQm1_kOyhtJTEw\/tEBYr0v8KriFyF9-0SEfqLpoKuM\"",
+      "id": "PL32BC9C878BA72085",
+      "snippet": {
+        "publishedAt": "2012-01-11T11:28:35.000Z",
+        "channelId": "UCJbPGzawDH1njbqV-D5HqKw",
+        "title": "MySQL Database Tutorial",
+        "description": "Official playlist for thenewboston MySQL Database Tutorials!",
+        "thumbnails": {
+          "default": {
+            "url": "https:\/\/i.ytimg.com\/vi\/O4SIpJMH7po\/default.jpg"
+          },
+          "medium": {
+            "url": "https:\/\/i.ytimg.com\/vi\/O4SIpJMH7po\/mqdefault.jpg"
+          },
+          "high": {
+            "url": "https:\/\/i.ytimg.com\/vi\/O4SIpJMH7po\/hqdefault.jpg"
+          }
+        },
+        "channelTitle": "thenewboston"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "\"BDC7VThyM9nfoSQm1_kOyhtJTEw\/eilVVHSlpHkYZ2hX0UZGGkoizTg\"",
+      "id": "PL081AC329706B2953",
+      "snippet": {
+        "publishedAt": "2011-11-08T17:15:00.000Z",
+        "channelId": "UCJbPGzawDH1njbqV-D5HqKw",
+        "title": "HTML5 Tutorials Playlist",
+        "description": "thenewboston Official HTML5 Tutorials Playlist!",
+        "thumbnails": {
+          "default": {
+            "url": "https:\/\/i.ytimg.com\/vi\/Mp0f0zTPLec\/default.jpg"
+          },
+          "medium": {
+            "url": "https:\/\/i.ytimg.com\/vi\/Mp0f0zTPLec\/mqdefault.jpg"
+          },
+          "high": {
+            "url": "https:\/\/i.ytimg.com\/vi\/Mp0f0zTPLec\/hqdefault.jpg"
+          }
+        },
+        "channelTitle": "thenewboston"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "\"BDC7VThyM9nfoSQm1_kOyhtJTEw\/Ghqtt7GIRSV5VuwQIO1leq3iBkk\"",
+      "id": "PLC1322B5A0180C946",
+      "snippet": {
+        "publishedAt": "2011-09-25T05:21:14.000Z",
+        "channelId": "UCJbPGzawDH1njbqV-D5HqKw",
+        "title": "XHTML and CSS Tutorials Playlist",
+        "description": "thenewboston Official XHTML and CSS Tutorials Playlist!",
+        "thumbnails": {
+          "default": {
+            "url": "https:\/\/i.ytimg.com\/vi\/q_8i8EBweT8\/default.jpg"
+          },
+          "medium": {
+            "url": "https:\/\/i.ytimg.com\/vi\/q_8i8EBweT8\/mqdefault.jpg"
+          },
+          "high": {
+            "url": "https:\/\/i.ytimg.com\/vi\/q_8i8EBweT8\/hqdefault.jpg"
+          }
+        },
+        "channelTitle": "thenewboston"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "\"BDC7VThyM9nfoSQm1_kOyhtJTEw\/BWS7vJURRm-JIi24ZJs4SrNypdk\"",
+      "id": "PLC601DEA22187BBF1",
+      "snippet": {
+        "publishedAt": "2011-09-25T05:07:04.000Z",
+        "channelId": "UCJbPGzawDH1njbqV-D5HqKw",
+        "title": "Visual Basic Tutorials Playlist",
+        "description": "thenewboston Official Visual Basic Tutorial Playlist!",
+        "thumbnails": {
+          "default": {
+            "url": "https:\/\/i.ytimg.com\/vi\/VMNt7aMGaxg\/default.jpg"
+          },
+          "medium": {
+            "url": "https:\/\/i.ytimg.com\/vi\/VMNt7aMGaxg\/mqdefault.jpg"
+          },
+          "high": {
+            "url": "https:\/\/i.ytimg.com\/vi\/VMNt7aMGaxg\/hqdefault.jpg"
+          }
+        },
+        "channelTitle": "thenewboston"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "\"BDC7VThyM9nfoSQm1_kOyhtJTEw\/sPRbcUM_OGMjabaTmA_v7-3lJ94\"",
+      "id": "PL6B08BAA57B5C7810",
+      "snippet": {
+        "publishedAt": "2011-09-25T05:05:29.000Z",
+        "channelId": "UCJbPGzawDH1njbqV-D5HqKw",
+        "title": "jQuery Tutorials Playlist",
+        "description": "thenewboston Official jQuery Tutorials Playlist!",
+        "thumbnails": {
+          "default": {
+            "url": "https:\/\/i.ytimg.com\/vi\/KHk3bS-c6uk\/default.jpg"
+          },
+          "medium": {
+            "url": "https:\/\/i.ytimg.com\/vi\/KHk3bS-c6uk\/mqdefault.jpg"
+          },
+          "high": {
+            "url": "https:\/\/i.ytimg.com\/vi\/KHk3bS-c6uk\/hqdefault.jpg"
+          }
+        },
+        "channelTitle": "thenewboston"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "\"BDC7VThyM9nfoSQm1_kOyhtJTEw\/XIJ5Cn0AyNxGNuBhDhFjp6GthwE\"",
+      "id": "PL0EE421AE8BCEBA4A",
+      "snippet": {
+        "publishedAt": "2011-09-25T05:02:08.000Z",
+        "channelId": "UCJbPGzawDH1njbqV-D5HqKw",
+        "title": "C# Beginners Tutorials Playlist",
+        "description": "thenewboston Official C# Beginners Tutorials Playlist!",
+        "thumbnails": {
+          "default": {
+            "url": "https:\/\/i.ytimg.com\/vi\/0haa-piN1JE\/default.jpg"
+          },
+          "medium": {
+            "url": "https:\/\/i.ytimg.com\/vi\/0haa-piN1JE\/mqdefault.jpg"
+          },
+          "high": {
+            "url": "https:\/\/i.ytimg.com\/vi\/0haa-piN1JE\/hqdefault.jpg"
+          }
+        },
+        "channelTitle": "thenewboston"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "\"BDC7VThyM9nfoSQm1_kOyhtJTEw\/WIGiw9a7raU6D7ct_KKWhCsurnc\"",
+      "id": "PLAE85DE8440AA6B83",
+      "snippet": {
+        "publishedAt": "2011-09-25T05:01:17.000Z",
+        "channelId": "UCJbPGzawDH1njbqV-D5HqKw",
+        "title": "C++ Programming Tutorials Playlist",
+        "description": "thenewboston Official Buckys C++ Programming Tutorials Playlist!",
+        "thumbnails": {
+          "default": {
+            "url": "https:\/\/i.ytimg.com\/vi\/tvC1WCdV1XU\/default.jpg"
+          },
+          "medium": {
+            "url": "https:\/\/i.ytimg.com\/vi\/tvC1WCdV1XU\/mqdefault.jpg"
+          },
+          "high": {
+            "url": "https:\/\/i.ytimg.com\/vi\/tvC1WCdV1XU\/hqdefault.jpg"
+          }
+        },
+        "channelTitle": "thenewboston"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "\"BDC7VThyM9nfoSQm1_kOyhtJTEw\/di9Rfej0sAxY5Oh4avTujasWTiI\"",
+      "id": "PL442FA2C127377F07",
+      "snippet": {
+        "publishedAt": "2011-09-25T04:59:31.000Z",
+        "channelId": "UCJbPGzawDH1njbqV-D5HqKw",
+        "title": "PHP Tutorials Playlist",
+        "description": "thenewboston Official Beginner PHP Tutorials Playlist!",
+        "thumbnails": {
+          "default": {
+            "url": "https:\/\/i.ytimg.com\/vi\/k6ZiPqsBvEQ\/default.jpg"
+          },
+          "medium": {
+            "url": "https:\/\/i.ytimg.com\/vi\/k6ZiPqsBvEQ\/mqdefault.jpg"
+          },
+          "high": {
+            "url": "https:\/\/i.ytimg.com\/vi\/k6ZiPqsBvEQ\/hqdefault.jpg"
+          }
+        },
+        "channelTitle": "thenewboston"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "\"BDC7VThyM9nfoSQm1_kOyhtJTEw\/Kc_0btxLSApN02oV21QRihUDY3M\"",
+      "id": "PL46F0A159EC02DF82",
+      "snippet": {
+        "publishedAt": "2011-09-25T04:58:11.000Z",
+        "channelId": "UCJbPGzawDH1njbqV-D5HqKw",
+        "title": "JavaScript Tutorials Playlist",
+        "description": "thenewboston Official Beginner JavaScript Tutorials Playlist!",
+        "thumbnails": {
+          "default": {
+            "url": "https:\/\/i.ytimg.com\/vi\/7Eb7D_IOaog\/default.jpg"
+          },
+          "medium": {
+            "url": "https:\/\/i.ytimg.com\/vi\/7Eb7D_IOaog\/mqdefault.jpg"
+          },
+          "high": {
+            "url": "https:\/\/i.ytimg.com\/vi\/7Eb7D_IOaog\/hqdefault.jpg"
+          }
+        },
+        "channelTitle": "thenewboston"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "\"BDC7VThyM9nfoSQm1_kOyhtJTEw\/6BE0OxYYNakcd3R8c4zNHg-O1Yo\"",
+      "id": "PL2F07DBCDCC01493A",
+      "snippet": {
+        "publishedAt": "2011-09-25T04:39:54.000Z",
+        "channelId": "UCJbPGzawDH1njbqV-D5HqKw",
+        "title": "Android Application Development Tutorials",
+        "description": "thenewboston Official Android Application Development Playlist!",
+        "thumbnails": {
+          "default": {
+            "url": "https:\/\/i.ytimg.com\/vi\/3M0Ugy7vybQ\/default.jpg"
+          },
+          "medium": {
+            "url": "https:\/\/i.ytimg.com\/vi\/3M0Ugy7vybQ\/mqdefault.jpg"
+          },
+          "high": {
+            "url": "https:\/\/i.ytimg.com\/vi\/3M0Ugy7vybQ\/hqdefault.jpg"
+          }
+        },
+        "channelTitle": "thenewboston"
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "\"BDC7VThyM9nfoSQm1_kOyhtJTEw\/KTYjgqgWKgmpzvqvqUZU0xWY8R8\"",
+      "id": "PLD6327E00257AF1D0",
+      "snippet": {
+        "publishedAt": "2010-08-29T18:57:42.000Z",
+        "channelId": "UCJbPGzawDH1njbqV-D5HqKw",
+        "title": "Cocos2D iPhone Tutorials",
+        "description": "Here are all my Cocos2D iPhone Tutorials. Enjoy!",
+        "thumbnails": {
+          "default": {
+            "url": "https:\/\/i.ytimg.com\/vi\/pdVNahZb1PU\/default.jpg"
+          },
+          "medium": {
+            "url": "https:\/\/i.ytimg.com\/vi\/pdVNahZb1PU\/mqdefault.jpg"
+          },
+          "high": {
+            "url": "https:\/\/i.ytimg.com\/vi\/pdVNahZb1PU\/hqdefault.jpg"
+          }
+        },
+        "channelTitle": "thenewboston",
+        "tags": [
+          "tutorial",
+          "iphone",
+          "particle",
+          "chipmunk",
+          "box2d",
+          "animation",
+          "game",
+          "menu",
+          "label"
+        ]
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "\"BDC7VThyM9nfoSQm1_kOyhtJTEw\/hhlro6LpN-m6XsZm2YAErPbEnrY\"",
+      "id": "PL53038489615793F7",
+      "snippet": {
+        "publishedAt": "2010-05-31T15:59:50.000Z",
+        "channelId": "UCJbPGzawDH1njbqV-D5HqKw",
+        "title": "iPhone Development Tutorials",
+        "description": "Here are all of my awesome iPhone development tutorials!",
+        "thumbnails": {
+          "default": {
+            "url": "https:\/\/i.ytimg.com\/vi\/abcMmyhKCno\/default.jpg"
+          },
+          "medium": {
+            "url": "https:\/\/i.ytimg.com\/vi\/abcMmyhKCno\/mqdefault.jpg"
+          },
+          "high": {
+            "url": "https:\/\/i.ytimg.com\/vi\/abcMmyhKCno\/hqdefault.jpg"
+          }
+        },
+        "channelTitle": "thenewboston",
+        "tags": [
+          "windows",
+          "program",
+          "game",
+          "stanford",
+          "sdk",
+          "beginners",
+          "ipod",
+          "itouch",
+          "tutorials",
+          "video",
+          "apps",
+          "mobile"
+        ]
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "\"BDC7VThyM9nfoSQm1_kOyhtJTEw\/4GoizGgy3eGhYOA9N95L8TWDeqs\"",
+      "id": "PL640F44F1C97BA581",
+      "snippet": {
+        "publishedAt": "2010-03-21T18:40:53.000Z",
+        "channelId": "UCJbPGzawDH1njbqV-D5HqKw",
+        "title": "Objective C Programming Tutorials",
+        "description": "Here is a list of all of my Objective C tutorials. Thanks for checking them out and don't forget to subscribe for all the latest videos.",
+        "thumbnails": {
+          "default": {
+            "url": "https:\/\/i.ytimg.com\/vi\/1Xqn5IHbusA\/default.jpg"
+          },
+          "medium": {
+            "url": "https:\/\/i.ytimg.com\/vi\/1Xqn5IHbusA\/mqdefault.jpg"
+          },
+          "high": {
+            "url": "https:\/\/i.ytimg.com\/vi\/1Xqn5IHbusA\/hqdefault.jpg"
+          }
+        },
+        "channelTitle": "thenewboston",
+        "tags": [
+          "tutorial",
+          "tutorials",
+          "basics",
+          "iphone",
+          "ipod",
+          "touch",
+          "lessons",
+          "windows",
+          "beginners",
+          "curly"
+        ]
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "\"BDC7VThyM9nfoSQm1_kOyhtJTEw\/PEAuXYZqozQaAeLhcP9yJuWoSFw\"",
+      "id": "PL27BCE863B6A864E3",
+      "snippet": {
+        "publishedAt": "2010-02-28T20:44:51.000Z",
+        "channelId": "UCJbPGzawDH1njbqV-D5HqKw",
+        "title": "Java (Intermediate) Tutorials",
+        "description": "Once you have mastered the basics, you are ready to move on!",
+        "thumbnails": {
+          "default": {
+            "url": "https:\/\/i.ytimg.com\/vi\/vW53w7me4AE\/default.jpg"
+          },
+          "medium": {
+            "url": "https:\/\/i.ytimg.com\/vi\/vW53w7me4AE\/mqdefault.jpg"
+          },
+          "high": {
+            "url": "https:\/\/i.ytimg.com\/vi\/vW53w7me4AE\/hqdefault.jpg"
+          }
+        },
+        "channelTitle": "thenewboston",
+        "tags": [
+          "install",
+          "download",
+          "jdk",
+          "se",
+          "ee",
+          "java",
+          "development",
+          "kit",
+          "new",
+          "beginner",
+          "tutorials",
+          "eclipse",
+          "variables",
+          "if",
+          "while",
+          "loop",
+          "object",
+          "classes"
+        ]
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    },
+    {
+      "kind": "youtube#playlist",
+      "etag": "\"BDC7VThyM9nfoSQm1_kOyhtJTEw\/wpIRd0_G8MnlQrXSNt8OtjtRI3w\"",
+      "id": "PLA331A6709F40B79D",
+      "snippet": {
+        "publishedAt": "2009-11-14T23:10:20.000Z",
+        "channelId": "UCJbPGzawDH1njbqV-D5HqKw",
+        "title": "Java Game Development Tutorials",
+        "description": "Here is the list of all my game development tutorials in java. Enjoy!",
+        "thumbnails": {
+          "default": {
+            "url": "https:\/\/i.ytimg.com\/vi\/hBhAWTSu104\/default.jpg"
+          },
+          "medium": {
+            "url": "https:\/\/i.ytimg.com\/vi\/hBhAWTSu104\/mqdefault.jpg"
+          },
+          "high": {
+            "url": "https:\/\/i.ytimg.com\/vi\/hBhAWTSu104\/hqdefault.jpg"
+          }
+        },
+        "channelTitle": "thenewboston",
+        "tags": [
+          "java",
+          "game",
+          "how",
+          "to",
+          "create",
+          "code",
+          "3d",
+          "2d",
+          "programming",
+          "download",
+          "play",
+          "develop",
+          "tutorial",
+          "bucky",
+          "roberts",
+          "graphics"
+        ]
+      },
+      "status": {
+        "privacyStatus": "public"
+      }
+    }
+  ]
+}
